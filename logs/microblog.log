@@ -91,3 +91,5 @@ NameError: name 'requrest' is not defined
 2020-06-28 15:30:08,491 INFO: Microblog startup [in D:\projects\learning\python-flask\app\__init__.py:49
 2020-06-28 15:34:22,316 INFO: Microblog startup [in D:\projects\learning\python-flask\app\__init__.py:49
 2020-06-30 01:44:03,421 INFO: Microblog startup [in D:\projects\learning\python-flask\app\__init__.py:47]
+2020-06-30 22:34:07,647 INFO: Microblog startup [in D:\projects\learning\python-flask\app\__init__.py:52]
+2020-06-30 22:34:33,062 INFO: Microblog startup [in D:\projects\learning\python-flask\app\__init__.py:52]
