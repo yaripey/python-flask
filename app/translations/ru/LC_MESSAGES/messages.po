@@ -1,0 +1,145 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-06-30 22:24+0300\n"
+"PO-Revision-Date: 2020-06-30 22:25+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: app/templates/404.html:4
+msgid "Not Found"
+msgstr "Страница  не найдена"
+
+#: app/templates/404.html:5 app/templates/500.html:6
+msgid "Back"
+msgstr "Назад"
+
+#: app/templates/500.html:4
+msgid "An unexpected error has occurred"
+msgstr "Непредвиденная ошибка"
+
+#: app/templates/500.html:5
+msgid "The administrator has been notified. Sorry for the inconvenience!"
+msgstr "Администратор уведомлён. Приносим извенения за неудобства!"
+
+#: app/templates/_post.html:14
+#, python-format
+msgid "%(username)s said %(when)s"
+msgstr "%(username)s опубликовал %(when)s"
+
+#: app/templates/base.html:4
+msgid "Welcome to Microblog"
+msgstr "Добро пожаловать в Микроблог"
+
+#: app/templates/base.html:21
+msgid "Home"
+msgstr "На главную"
+
+#: app/templates/base.html:22
+msgid "Explore"
+msgstr "Исследовать"
+
+#: app/templates/base.html:26
+msgid "Login"
+msgstr "Войти"
+
+#: app/templates/base.html:28
+msgid "Profile"
+msgstr "Профиль"
+
+#: app/templates/base.html:29
+msgid "Logout"
+msgstr "Выйти"
+
+#: app/templates/edit_profile.html:5
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: app/templates/index.html:5
+#, python-format
+msgid "Hi, %(username)s!"
+msgstr "Здравствуйте, %(username)s!"
+
+#: app/templates/index.html:17 app/templates/user.html:41
+msgid "Newer posts"
+msgstr "Новые посты"
+
+#: app/templates/index.html:22 app/templates/user.html:46
+msgid "Older posts"
+msgstr "Старые посты"
+
+#: app/templates/login.html:5
+msgid "Sign In"
+msgstr "Войти"
+
+#: app/templates/login.html:12
+msgid "New User?"
+msgstr "Новый пользователь?"
+
+#: app/templates/login.html:12
+msgid "Click to Register!"
+msgstr "Зарегистрироваться!"
+
+#: app/templates/login.html:14
+msgid "Forgot Your Password?"
+msgstr "Забыли свой пароль?"
+
+#: app/templates/login.html:15
+msgid "Click to Reset It"
+msgstr "Нажмите для сброса"
+
+#: app/templates/register.html:5
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: app/templates/reset_password.html:5
+msgid "Reset Your Password"
+msgstr "Сбросить ваш пароль"
+
+#: app/templates/reset_password_request.html:5
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: app/templates/user.html:8
+msgid "User"
+msgstr "Пользователь"
+
+#: app/templates/user.html:11
+msgid "Last seen on"
+msgstr "В последний раз был(а) онлайн"
+
+#: app/templates/user.html:13
+#, python-format
+msgid "%(count)d followers"
+msgstr "%(count)d подписчиков"
+
+#: app/templates/user.html:13
+#, python-format
+msgid "%(count)d following"
+msgstr "%(count)d following подписок"
+
+#: app/templates/user.html:15
+msgid "Edit your profile"
+msgstr "Редактировать профиль"
+
+#: app/templates/user.html:20
+msgid "Follow"
+msgstr "Подписаться"
+
+#: app/templates/user.html:27
+msgid "Unfollow"
+msgstr "Отписаться"
+
