@@ -9,6 +9,7 @@ from app.models import User, Post
 from app.email import send_password_reset_email
 
 # testing sign
+# another testing sign with no particular sense or worth
 
 @app.before_request
 def before_request():
